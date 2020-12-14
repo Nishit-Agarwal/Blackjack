@@ -1,2 +1,2 @@
 # Blackjack
-Balck jack Front end project
+Balck jack card game (html, css, javascript)
